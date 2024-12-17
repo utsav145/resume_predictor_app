@@ -9,7 +9,7 @@ from nltk.stem import PorterStemmer
 from xgboost import XGBClassifier
 from bs4 import BeautifulSoup
 import joblib
-
+import nltk
 nltk.download('stopwords')
 # Load necessary resources
 @st.cache_resource
