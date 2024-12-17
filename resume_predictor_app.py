@@ -10,6 +10,7 @@ from xgboost import XGBClassifier
 from bs4 import BeautifulSoup
 import joblib
 
+nltk.download('stopwords')
 # Load necessary resources
 @st.cache_resource
 def load_model_and_vectorizer():
