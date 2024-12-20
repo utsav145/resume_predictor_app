@@ -83,5 +83,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ### `Project Link`:
-```https://resumepredictorapp-kjo7yzwty7buqdwj6q3gwr.streamlit.app/
-```
+https://resumepredictorapp-kjo7yzwty7buqdwj6q3gwr.streamlit.app/
+
