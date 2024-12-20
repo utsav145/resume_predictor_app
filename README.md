@@ -82,15 +82,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-### `requirements.txt` (for convenience)
-```plaintext
-streamlit
-xgboost
-nltk
-joblib
-scipy
-scikit-learn
-pandas
-pyPDF2
-beautifulsoup4
+### `Project Link`:
+```https://resumepredictorapp-kjo7yzwty7buqdwj6q3gwr.streamlit.app/
 ```
