@@ -58,7 +58,7 @@ pip install -r requirements.txt
 ## How to Use
 1. Run the Streamlit application:
    ```bash
-   streamlit run app.py
+   streamlit run resume_predictor_app.py
    ```
 
 2. Open the web interface in your browser, where you can upload a resume in **TXT** or **PDF** format.
